@@ -275,14 +275,10 @@ inEtri Journal: 31.1, pages 92–94.
 
 Panaro, Delio, Eva Riccomagno and Fabrizio Malfanti
 (2015). “A Fraud Detection Algorithm For Online Banking”. inBOOK OF ABSTRACTS: page 271.
-Patil, Prasad (may 2018). What is exploratory data analysis? URL: https://towardsdatascience.com
-/exploratory-data-analysis-8fc1cb20f
-d15.
+Patil, Prasad (may 2018). What is exploratory data analysis? URL: https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
 
 PricewaterhouseCoopers (nodate). PWC’s Global Economic
-Crime and Fraud Survey 2020. URL: https://www
-.pwc.com/gx/en/services/forensics/ec
-onomic-crime-survey.html.
+Crime and Fraud Survey 2020. URL: https://www.pwc.com/gx/en/services/forensics/economic-crime-survey.html.
 
 Seeja, KR and Masoumeh Zareapoor (2014). “Fraudminer:
 A novel credit card fraud detection model based on frequent itemset mining”.inThe Scientific World Journal:
